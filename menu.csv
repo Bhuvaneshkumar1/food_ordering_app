@@ -1,0 +1,51 @@
+id,item_name,price
+1,Pizza Margherita,250
+2,Pepperoni Pizza,300
+3,BBQ Chicken Pizza,350
+4,Vegetable Pizza,280
+5,Hawaiian Pizza,330
+6,Cheese Burger,120
+7,Chicken Burger,150
+8,Veggie Burger,100
+9,Double Cheese Burger,180
+10,Mushroom Swiss Burger,160
+11,French Fries,70
+12,Cheese Fries,90
+13,Curly Fries,80
+14,Masala Fries,85
+15,Garlic Fries,95
+16,Chicken Wings,200
+17,Buffalo Wings,220
+18,Spicy Wings,210
+19,Honey Glazed Wings,230
+20,Grilled Chicken,300
+21,Chicken Tikka,280
+22,Paneer Tikka,250
+23,Grilled Fish,320
+24,Prawn Curry,350
+25,Butter Chicken,330
+26,Paneer Butter Masala,300
+27,Chole Bhature,150
+28,Vegetable Biryani,180
+29,Chicken Biryani,250
+30,Mutton Biryani,300
+31,Fish Biryani,280
+32,Plain Naan,30
+33,Butter Naan,40
+34,Garlic Naan,50
+35,Roti,20
+36,Paratha,25
+37,Masala Dosa,100
+38,Plain Dosa,80
+39,Idli,50
+40,Vada,40
+41,Upma,60
+42,Poha,50
+43,Pasta Alfredo,220
+44,Pasta Arrabiata,210
+45,Spaghetti Bolognese,250
+46,Mac and Cheese,200
+47,Caesar Salad,180
+48,Greek Salad,190
+49,Tomato Soup,120
+50,poori,50.0
