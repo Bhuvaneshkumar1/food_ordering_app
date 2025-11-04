@@ -43,7 +43,7 @@ Supports **Admin** and **User** roles, cart-based ordering, and optional **PDF b
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/food-delivery-cli.git
+   [git clone https://github.com/Bhuvaneshkumar1/food_ordering_app.git
    cd food-delivery-cli
    ```
 
